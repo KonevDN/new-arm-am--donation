@@ -2,78 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77950915-05b9-457a-ba7a-786141a9384d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/customization/section04/style/section04.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/Header-BG-Image - копия.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/Header-BG-Image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/logotype1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/logotype2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section02/smart-watch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section02/world-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/picture/world-map.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section03/horn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section04/letsgrow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section05/pictogramma-of-commentary.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section05/pictogramma-of-horn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/1-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/1-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/2-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/2-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/3-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/3-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/4-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/4-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/5-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/5-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/6-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/6-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/7-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/7-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/8-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/8-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/9-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/9-small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-adidas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-amazon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-cisco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-disney.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-lenovo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-mini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-puma.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client01 - копия.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client02 - копия.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client03 - копия.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section09/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/photo-gevorg-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/pictures/photo-gevorg-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/picture/photo-gevorg-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/debugger.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/debugger.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/general-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section01.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section02.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section03.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section04.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/style/section02.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section05.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section06.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section07.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section08.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section09.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section10.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section11.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section12.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section03/style/section03.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/section02/style/section02.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/style/section02.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/section03/style/section03.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section03/style/section03.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,6 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,7 +68,7 @@
       <updated>1587495491094</updated>
       <workItem from="1587495500613" duration="9982000" />
       <workItem from="1587571003742" duration="1456000" />
-      <workItem from="1587576247741" duration="4503000" />
+      <workItem from="1587576247741" duration="7027000" />
     </task>
     <servers />
   </component>

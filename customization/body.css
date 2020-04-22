@@ -195,15 +195,6 @@ section .container .row .myrow
         top: 100px;
     }
 
-    /*.navbar-nav*/
-    /*{*/
-    /*    background: rgba(46,30,92, 0.98);*/
-    /*    position: relative;*/
-    /*    z-index: 1;*/
-    /*    padding: 0 15px;*/
-
-    /*}*/
-
     h2
     {
         font-size: 25px;
@@ -221,16 +212,14 @@ section .container .row .myrow
 
 
 
-
-
-
-
-
-
-
 /*// Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {}
 
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
 
+html, body
+{
+    min-height: 1px;
+    height: 100%;
+}
