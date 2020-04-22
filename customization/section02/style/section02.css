@@ -1,7 +1,7 @@
-.section04 h1,
-.section04 h2,
-.section04 h3,
-.section04 h4,
+.section02 h1,
+.section02 h2,
+.section02 h3,
+.section02 h4,
 p
 {
     color: black;
@@ -10,21 +10,21 @@ p
 }
 
 
-.section04
+.section02
 {
     background-color: #4B2D7F;
     color: white;
     font-size: 16px;
-    background: url("../../pictures/landing/section02/world-map.png") center no-repeat;
+    background: url("../picture/world-map.png") center no-repeat;
     background-size: cover;
 }
 
-.section04 .mycontent
+.section02 .mycontent
 {
     padding: 20px;
 }
 
-.section04 h1
+.section02 h1
 {
     font-weight: bold;
     font-style: normal;
@@ -36,7 +36,7 @@ p
     margin-bottom: 20px;
 }
 
-.section04 h2 {
+.section02 h2 {
     font-weight: normal;
     font-style: italic;
     font-size: 30px;
@@ -48,7 +48,7 @@ p
 
 }
 
-.section04 p
+.section02 p
 {
     font-family: Montserrat-Regular;
     font-size: 18px;
@@ -59,7 +59,7 @@ p
     margin-bottom: 20px;
 }
 
-.section04 .form-summa-donation
+.section02 .form-summa-donation
 {
     width: 300px;
 }
@@ -67,7 +67,7 @@ p
 /*// Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575px)
 {
-    .section04 h1
+    .section02 h1
     {
         font-weight: bold;
         font-style: normal;
@@ -79,7 +79,7 @@ p
         margin-bottom: 20px;
     }
 
-    .section04 h2 {
+    .section02 h2 {
         font-weight: normal;
         font-style: italic;
         font-size: 30px;
@@ -92,19 +92,20 @@ p
     }
 }
 
-.section04 button.btn.btn-primary {
+.section02 button.btn.btn-primary {
     font-size: 14px;
     font-weight: 600;
     color: white;
     text-transform: uppercase;
     margin-right: 0px;
     padding: 10px 30px;
-    opacity: 80%;
+    opacity: 100%;
     box-shadow: 0 4px 16px rgba(0,0,0, 0.35);
     transition: all 500ms;
+    width: 200px;
 }
 
-.section04 .photo-box img
+.section02 .photo-box img
 {
     border-radius: 80px;
 }

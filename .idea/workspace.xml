@@ -2,39 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77950915-05b9-457a-ba7a-786141a9384d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/scripts/my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/tools/baguetteBox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/tools/baguetteBox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/tools/free-kit-form-fontawesome-com-ac6a64edb7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/tools/jquery-3.5.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/jquery-3.3.1.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework/bootstrap421/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework/bootstrap4.2.1/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/Header-BG-Image - копия.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/Header-BG-Image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/logotype1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section01/logotype2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section02/smart-watch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section02/world-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/picture/world-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section03/horn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section04/letsgrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section05/pictogramma-of-commentary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section05/pictogramma-of-horn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/1-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/1-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/2-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/2-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/3-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/3-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/4-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/4-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/5-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/5-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/6-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/6-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/7-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/7-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/8-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/8-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/9-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section06/gallery/9-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-adidas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-amazon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-cisco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-disney.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-lenovo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section07/logotype-of-puma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client01 - копия.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client02 - копия.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client03 - копия.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section08/happy-client03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section09/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/landing/section11/office-foto-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/photo-gevorg-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/pictures/photo-gevorg-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/picture/photo-gevorg-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/debugger.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/debugger.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/general-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section01.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section02.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section03.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section04.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/style/section02.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section05.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section06.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section07.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section08.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section09.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section10.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section11.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/styles/landing/section12.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section03/style/section03.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-arm-donation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/new-arm--donation.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +101,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\new-arm-am--donation\customization\section02\picture" />
+      <recent name="D:\OSPanel\domains\new-arm-am--donation\customization" />
+      <recent name="D:\OSPanel\domains\new-arm-am--donation\customization\section02\style" />
+      <recent name="D:\OSPanel\domains\new-arm-am--donation\customization\pictures\landing\section04" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,7 +121,7 @@
       <updated>1587495491094</updated>
       <workItem from="1587495500613" duration="9982000" />
       <workItem from="1587571003742" duration="1456000" />
-      <workItem from="1587576247741" duration="462000" />
+      <workItem from="1587576247741" duration="4503000" />
     </task>
     <servers />
   </component>
