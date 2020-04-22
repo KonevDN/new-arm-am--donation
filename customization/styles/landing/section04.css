@@ -1,0 +1,111 @@
+.section04 h1,
+.section04 h2,
+.section04 h3,
+.section04 h4,
+p
+{
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.section04
+{
+    background-color: #4B2D7F;
+    color: white;
+    font-size: 16px;
+    background: url("../../pictures/landing/section02/world-map.png") center no-repeat;
+    background-size: cover;
+}
+
+.section04 .mycontent
+{
+    padding: 20px;
+}
+
+.section04 h1
+{
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Montserrat SemiBold";
+    font-size: 40px;
+    /*color: black;*/
+    line-height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section04 h2 {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+    /*font-family: Montserrat-SemiBold;*/
+    font-family: 'Palatino Linotype','Book Antiqua', 'Palace Script MT', serif;
+    /*margin-bottom: 20px;*/
+    /*margin-top: 20px;*/
+    /*color: black;*/
+
+}
+
+.section04 p
+{
+    font-family: Montserrat-Regular;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    /*color: white;*/
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.section04 .form-summa-donation
+{
+    width: 300px;
+}
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px)
+{
+    .section04 h1
+    {
+        font-weight: bold;
+        font-style: normal;
+        font-family: "Montserrat SemiBold";
+        font-size: 30px;
+        /*color: black;*/
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .section04 h2 {
+        font-weight: normal;
+        font-style: italic;
+        font-size: 30px;
+        /*font-family: Montserrat-SemiBold;*/
+        font-family: 'Palatino Linotype','Book Antiqua', 'Palace Script MT', serif;
+        /*margin-bottom: 20px;*/
+        /*margin-top: 20px;*/
+        /*color: black;*/
+
+    }
+}
+
+.section04 button.btn.btn-primary {
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    margin-right: 0px;
+    padding: 10px 30px;
+    opacity: 80%;
+    box-shadow: 0 4px 16px rgba(0,0,0, 0.35);
+    transition: all 500ms;
+}
+
+.section04 .photo-box img
+{
+    border-radius: 80px;
+}
+
