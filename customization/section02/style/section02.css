@@ -12,16 +12,16 @@ p
 
 .section02
 {
-    background-color: #4B2D7F;
+    /*background-color: #4B2D7F;*/
     color: white;
     font-size: 16px;
-    background: url("../picture/world-map.png") center no-repeat;
-    background-size: cover;
+    /*background: url("../picture/world-map.png") center no-repeat;*/
+    /*background-size: cover;*/
 }
 
 .section02 .mycontent
 {
-    padding: 0px;
+    /*margin-top: 50px;*/
 }
 
 .section02 h1

@@ -1,0 +1,11 @@
+.section01-first-display
+{
+    /*background-color: black;*/
+    /*background: url("background-mountain.jpeg") center no-repeat;*/
+    /*background-size: cover;*/
+}
+
+.section01-first-display img
+{
+    height: 100px;
+}
