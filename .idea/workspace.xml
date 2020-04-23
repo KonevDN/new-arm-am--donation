@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77950915-05b9-457a-ba7a-786141a9384d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customization/section01/background-mountain.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customization/section01/logotype01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customization/section01/logotype2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customization/section01/section01.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customization/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customization/section02/style/section02.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section02/style/section02.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/section01/logotype2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customization/section01/section01.css" beforeDir="false" afterPath="$PROJECT_DIR$/customization/section01/section01.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,8 @@
       <updated>1587495491094</updated>
       <workItem from="1587495500613" duration="9982000" />
       <workItem from="1587571003742" duration="1456000" />
-      <workItem from="1587576247741" duration="10331000" />
+      <workItem from="1587576247741" duration="12110000" />
+      <workItem from="1587595126204" duration="261000" />
     </task>
     <servers />
   </component>
@@ -96,5 +94,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="235" key="run.anything.popup/-1366.74.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587502348606" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587592287102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.178.1366.768@0.0.1920.1040" timestamp="1587592287102" />
   </component>
 </project>
